@@ -1,6 +1,6 @@
 # FakeStoreAppV2
 
-FakeStoreAppV2 is a simple e-commerce demo built with modern React tools. It uses the FakeStoreAPI to fetch product and category data, allows users to browse products, filter by category, add items to a shopping cart, and simulate a checkout. The cart state is managed with Redux Toolkit and persists in sessionStorage so that it survives page refreshes.
+My fake store app is a simple e-commerce demo built with modern React tools. It uses the FakeStoreAPI to fetch product and category data, allows users to browse products, filter by category, add items to a shopping cart, and simulate a checkout. The cart state is managed with Redux Toolkit and persists in sessionStorage so that it survives page refreshes!!
 
 ---
 
